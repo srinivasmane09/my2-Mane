@@ -17,6 +17,6 @@ Largest **waterfalls** in Europe
 
 # Unordered List
 
-3. fondue
-2. Leeks with potatoes and sausage
-1. Rosti, Valaisanne-style
+* fondue
+* Leeks with potatoes and sausage
+* Rosti, Valaisanne-style
