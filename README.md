@@ -3,7 +3,9 @@
 ###### Switzerland
 World's most **graceful** lakes
 Largest **waterfalls** in Europe
+
 ***
+
 # Ordered List
 
 1. Visiting Rhine Falls
@@ -11,3 +13,10 @@ Largest **waterfalls** in Europe
 3. Float down the Rhine in Basel
 4. Eating swiss famous food Cheese fondue
 
+***
+
+# Unordered List
+
+3. fondue
+2. Leeks with potatoes and sausage
+1. Rosti, Valaisanne-style
