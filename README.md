@@ -6,7 +6,7 @@ Largest **waterfalls** in Europe
 
 ***
 
-# Ordered List
+# Activities in Switzerland
 
 1. Visiting Rhine Falls
 2. Want to visit top of europe Jungfrau
@@ -15,7 +15,7 @@ Largest **waterfalls** in Europe
 
 ***
 
-# Unordered List
+# Cuisines in Switzerland
 
 * fondue
 * Leeks with potatoes and sausage
