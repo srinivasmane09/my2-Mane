@@ -2,7 +2,7 @@
 # Srinivas Mane
 ###### Switzerland
 World's most **graceful** lakes
-Largest **waterfalls** in Europe
+Largest **waterfalls** in Europe 
 
 ***
 
@@ -20,3 +20,5 @@ Largest **waterfalls** in Europe
 * fondue
 * Leeks with potatoes and sausage
 * Rosti, Valaisanne-style
+
+https://vscode.dev/github/srinivasmane09/my2-Mane/blob/main/MyStats.md
