@@ -15,3 +15,11 @@ The below table illustrates sports that i recommend
 | chess |  Improves Thinking Ability | 12 |
 | Football | Building strength, stamina and speed | 20 |
 | Basketball | flexibility and endurance | 14 |
+
+***
+
+## Quotations
+
+> If I have seen further it is by standing on the shoulders of giants - * Isaac Newton *
+>
+>Were there none who were discontented with what they have, the world would never reach anything better - * Florence Nightingale *
